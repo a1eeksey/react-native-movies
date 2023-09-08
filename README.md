@@ -2,7 +2,7 @@
 
 ## About
 A movie app crafted with React Native, powered by Expo, and styled with the NativeWind.
-Please, make sure that you set your own api key in 'api/moviedb.js' file!
+Please, make sure that you set your own api key in 'api/moviedb.js' file before using!
 ## Project setup
 ```
 npm install
